@@ -190,7 +190,8 @@ public class Main {
                 activePlayer=board1.activePlayerChange(activePlayer);
             }
             activePlayer=board1.activePlayerChange(activePlayer);
-
         }
+        System.out.println("Może teraz zadziała...");
     }
+
 }
