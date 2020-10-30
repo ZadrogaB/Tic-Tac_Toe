@@ -190,6 +190,7 @@ public class Main {
                 activePlayer=board1.activePlayerChange(activePlayer);
             }
             activePlayer=board1.activePlayerChange(activePlayer);
+
         }
     }
 }
